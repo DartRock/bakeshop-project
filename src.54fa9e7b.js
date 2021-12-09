@@ -9,4 +9,4 @@ const o=document.querySelector("#up-button"),s=()=>{window.scrollY>200?o.classLi
 },{}],"Focm":[function(require,module,exports) {
 "use strict";require("./js/main"),require("./sass/main.scss"),require("./js/scroll"),require("./js/up-btn");
 },{"./js/main":"d6sW","./sass/main.scss":"clu1","./js/scroll":"N8YO","./js/up-btn":"e4yY"}]},{},["Focm"], null)
-//# sourceMappingURL=/bakeshop-project/src.fb5c7dff.js.map
+//# sourceMappingURL=/bakeshop-project/src.54fa9e7b.js.map
